@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #004d99;
+    color: white;
+  }
+
+  .navbar-text {
+    color: #5F9EA0;
+  }
+  

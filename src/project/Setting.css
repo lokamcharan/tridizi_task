@@ -1,0 +1,32 @@
+.setting-container {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+    padding: 20px;
+  }
+  
+  .image-section {
+    flex: 1;
+  }
+  
+  .image-section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .text-section {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+  }
+  
+  .text-section h2,
+  .text-section h4,
+  .text-section h6 {
+    margin: 0;
+  }
+
+  
+  
